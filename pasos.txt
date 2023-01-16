@@ -1,0 +1,12 @@
+REST API
+
+*crear usuario
+*hacer login
+*hacer roles
+*hacer validations - token
+*crear schedule day
+*poder hacer appoiments
+*mostrar appoiments
+*enviar confirmaciones por WS y correo
+*hacer reportes de citas por dia
+*imprimir
